@@ -1,2 +1,3 @@
 ::FRAMEWORKS Y EJB:::
-http://sg.com.mx/content/view/234 
+http://sg.com.mx/content/view/234
+http://www.jtech.ua.es/j2ee/2003-2004/abierto-j2ee-2003-2004/ejb/sesion01-apuntes.htm 
